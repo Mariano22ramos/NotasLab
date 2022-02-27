@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotasLab-1", "NotasLab-1\NotasLab-1.csproj", "{AEA96C24-A362-4412-A299-2807A65A7EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA96C24-A362-4412-A299-2807A65A7EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA96C24-A362-4412-A299-2807A65A7EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA96C24-A362-4412-A299-2807A65A7EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA96C24-A362-4412-A299-2807A65A7EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D674AF5-C665-476D-A75F-E40451D519B1}
+	EndGlobalSection
+EndGlobal
